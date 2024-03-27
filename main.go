@@ -12,6 +12,10 @@ import (
 	conn "testapi/connection"
 )
 
+
+
+
+
 var db *sql.DB
 
 type Product struct {
