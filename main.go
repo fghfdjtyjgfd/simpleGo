@@ -19,9 +19,9 @@ import (
 var db *sql.DB
 
 type Product struct {
-	ID    int
-	Name  string
-	Price int
+	ID    int //
+	Name  string //
+	Price int //
 }
 
 func main() {
